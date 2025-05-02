@@ -170,6 +170,9 @@ if is_palindrome(word)==True:
         print("String is a palindrome")
 else:
         print("String is not a palindrome")
+```
+
+
 
 ### Output:
 ![Screenshot 2025-05-02 193606](https://github.com/user-attachments/assets/84b839f6-7a5b-4fd0-8f50-0497f902c2ea)
