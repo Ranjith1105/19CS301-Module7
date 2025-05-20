@@ -9,7 +9,9 @@ STEP 1: Start.
 
 STEP 2: Define a function.
 
-STEP 3: Create a base case for termination of the function. STEP 4: Create a recursive case to calculate the result.
+STEP 3: Create a base case for termination of the function. 
+
+STEP 4: Create a recursive case to calculate the result.
 
 STEP 5: Print the result. STEP 6: Stop.
 
